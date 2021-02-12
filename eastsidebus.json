@@ -1,0 +1,706 @@
+[ 
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.38086,
+            "lng":-62.75656
+        },
+        "degrees":351.1,
+        "gpsState":true,
+        "speed":0.034523,
+        "time":"2019-2-5 23:59:09"
+    },
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.38105,
+            "lng":-62.75664
+        },
+        "degrees":348.78,
+        "gpsState":true,
+        "speed":11.72644,
+        "time":"2019-2-5 23:59:26"
+    },
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.38209,
+            "lng":-62.75651
+        },
+        "degrees":356.05,
+        "gpsState":true,
+        "speed":19.47119,
+        "time":"2019-2-5 23:59:43"
+    },
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.38237,
+            "lng":-62.75755
+        },
+        "degrees":263.27,
+        "gpsState":true,
+        "speed":22.77393,
+        "time":"2019-2-6 00:00:00"
+    },
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.38253,
+            "lng":-62.75933
+        },
+        "degrees":287.3,
+        "gpsState":true,
+        "speed":26.54848,
+        "time":"2019-2-6 00:00:17"
+    },
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.38353,
+            "lng":-62.76123
+        },
+        "degrees":304.74,
+        "gpsState":true,
+        "speed":34.04005,
+        "time":"2019-2-6 00:00:34"
+    },
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.38492,
+            "lng":-62.76337
+        },
+        "degrees":303.1,
+        "gpsState":true,
+        "speed":28.72346,
+        "time":"2019-2-6 00:00:52"
+    },
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.38626,
+            "lng":-62.76445
+        },
+        "degrees":315.61,
+        "gpsState":true,
+        "speed":28.24013,
+        "time":"2019-2-6 00:01:09"
+    },
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.38726,
+            "lng":-62.76616
+        },
+        "degrees":282.6,
+        "gpsState":true,
+        "speed":19.01088,
+        "time":"2019-2-6 00:01:27"
+    },
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.38701,
+            "lng":-62.76717
+        },
+        "degrees":267.78,
+        "gpsState":true,
+        "speed":12.95778,
+        "time":"2019-2-6 00:01:44"
+    },
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.38783,
+            "lng":-62.76799
+        },
+        "degrees":353.58,
+        "gpsState":true,
+        "speed":24.43105,
+        "time":"2019-2-6 00:02:01"
+    },
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.38931,
+            "lng":-62.76785
+        },
+        "degrees":351.82,
+        "gpsState":true,
+        "speed":19.72436,
+        "time":"2019-2-6 00:02:18"
+    },
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.39027,
+            "lng":-62.76901
+        },
+        "degrees":294.71,
+        "gpsState":true,
+        "speed":26.95125,
+        "time":"2019-2-6 00:02:35"
+    },
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.39118,
+            "lng":-62.77068
+        },
+        "degrees":311.27,
+        "gpsState":true,
+        "speed":30.42661,
+        "time":"2019-2-6 00:02:51"
+    },
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.39261,
+            "lng":-62.7726
+        },
+        "degrees":309.06,
+        "gpsState":true,
+        "speed":29.64408,
+        "time":"2019-2-6 00:03:09"
+    },
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.39382,
+            "lng":-62.77386
+        },
+        "degrees":308.39,
+        "gpsState":true,
+        "speed":24.7993,
+        "time":"2019-2-6 00:03:26"
+    },
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.39491,
+            "lng":-62.77521
+        },
+        "degrees":320.96,
+        "gpsState":true,
+        "speed":26.79015,
+        "time":"2019-2-6 00:03:43"
+    },
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.39612,
+            "lng":-62.77604
+        },
+        "degrees":13.47,
+        "gpsState":true,
+        "speed":20.26523,
+        "time":"2019-2-6 00:04:00"
+    },
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.3979,
+            "lng":-62.77583
+        },
+        "degrees":352.41,
+        "gpsState":true,
+        "speed":30.20796,
+        "time":"2019-2-6 00:04:17"
+    },
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.4,
+            "lng":-62.77693
+        },
+        "degrees":329.51,
+        "gpsState":true,
+        "speed":38.56262,
+        "time":"2019-2-6 00:04:35"
+    },
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.4016,
+            "lng":-62.77875
+        },
+        "degrees":294.04,
+        "gpsState":true,
+        "speed":31.98016,
+        "time":"2019-2-6 00:04:52"
+    },
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.40195,
+            "lng":-62.78043
+        },
+        "degrees":281.73,
+        "gpsState":true,
+        "speed":14.47681,
+        "time":"2019-2-6 00:05:09"
+    },
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.40221,
+            "lng":-62.78154
+        },
+        "degrees":286.39,
+        "gpsState":true,
+        "speed":23.94772,
+        "time":"2019-2-6 00:05:25"
+    },
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.40232,
+            "lng":-62.78327
+        },
+        "degrees":261.45,
+        "gpsState":true,
+        "speed":23.29178,
+        "time":"2019-2-6 00:05:43"
+    },
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.40208,
+            "lng":-62.78523
+        },
+        "degrees":263.45,
+        "gpsState":true,
+        "speed":26.96276,
+        "time":"2019-2-6 00:06:00"
+    },
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.40257,
+            "lng":-62.78662
+        },
+        "degrees":341.93,
+        "gpsState":true,
+        "speed":21.51958,
+        "time":"2019-2-6 00:06:18"
+    },
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.40306,
+            "lng":-62.7872
+        },
+        "degrees":205.76,
+        "gpsState":true,
+        "speed":15.74266,
+        "time":"2019-2-6 00:06:36"
+    },
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.40361,
+            "lng":-62.78808
+        },
+        "degrees":326.27,
+        "gpsState":true,
+        "speed":18.33192,
+        "time":"2019-2-6 00:06:55"
+    },
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.40289,
+            "lng":-62.78892
+        },
+        "degrees":222.61,
+        "gpsState":true,
+        "speed":15.90377,
+        "time":"2019-2-6 00:07:14"
+    },
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.40327,
+            "lng":-62.78965
+        },
+        "degrees":339.99,
+        "gpsState":true,
+        "speed":18.02121,
+        "time":"2019-2-6 00:07:32"
+    },
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.40396,
+            "lng":-62.79072
+        },
+        "degrees":293.53,
+        "gpsState":true,
+        "speed":17.74502,
+        "time":"2019-2-6 00:07:49"
+    },
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.40424,
+            "lng":-62.79203
+        },
+        "degrees":287.52,
+        "gpsState":true,
+        "speed":16.17996,
+        "time":"2019-2-6 00:08:07"
+    },
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.40493,
+            "lng":-62.79366
+        },
+        "degrees":297.77,
+        "gpsState":true,
+        "speed":22.65885,
+        "time":"2019-2-6 00:08:27"
+    },
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.40556,
+            "lng":-62.79502
+        },
+        "degrees":295.36,
+        "gpsState":true,
+        "speed":15.8002,
+        "time":"2019-2-6 00:08:44"
+    },
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.40556,
+            "lng":-62.79502
+        },
+        "degrees":295.36,
+        "gpsState":true,
+        "speed":15.8002,
+        "time":"2019-2-6 00:08:44"
+    },
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.40616,
+            "lng":-62.79683
+        },
+        "degrees":275.4,
+        "gpsState":true,
+        "speed":27.00879,
+        "time":"2019-2-6 00:09:09"
+    },
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.40631,
+            "lng":-62.79879
+        },
+        "degrees":274.05,
+        "gpsState":true,
+        "speed":24.56914,
+        "time":"2019-2-6 00:09:26"
+    },
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.40635,
+            "lng":-62.80027
+        },
+        "degrees":246.26,
+        "gpsState":true,
+        "speed":17.65296,
+        "time":"2019-2-6 00:09:43"
+    },
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.40654,
+            "lng":-62.80104
+        },
+        "degrees":302.92,
+        "gpsState":true,
+        "speed":18.09025,
+        "time":"2019-2-6 00:10:01"
+    },
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.40722,
+            "lng":-62.80219
+        },
+        "degrees":299.46,
+        "gpsState":true,
+        "speed":20.18467,
+        "time":"2019-2-6 00:10:18"
+    },
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.408,
+            "lng":-62.80307
+        },
+        "degrees":328.29,
+        "gpsState":true,
+        "speed":14.87958,
+        "time":"2019-2-6 00:10:35"
+    },
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.4088,
+            "lng":-62.80389
+        },
+        "degrees":242.55,
+        "gpsState":true,
+        "speed":14.35022,
+        "time":"2019-2-6 00:10:56"
+    },
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.40872,
+            "lng":-62.80492
+        },
+        "degrees":323.04,
+        "gpsState":true,
+        "speed":20.46086,
+        "time":"2019-2-6 00:11:13"
+    },
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.40977,
+            "lng":-62.80581
+        },
+        "degrees":304.61,
+        "gpsState":true,
+        "speed":14.86807,
+        "time":"2019-2-6 00:11:30"
+    },
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.41061,
+            "lng":-62.80656
+        },
+        "degrees":340.54,
+        "gpsState":true,
+        "speed":25.96158,
+        "time":"2019-2-6 00:11:48"
+    },
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.41213,
+            "lng":-62.80756
+        },
+        "degrees":322.42,
+        "gpsState":true,
+        "speed":25.95008,
+        "time":"2019-2-6 00:12:05"
+    },
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.41343,
+            "lng":-62.80856
+        },
+        "degrees":323.42,
+        "gpsState":true,
+        "speed":22.42869,
+        "time":"2019-2-6 00:12:22"
+    },
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.41474,
+            "lng":-62.8096
+        },
+        "degrees":319.86,
+        "gpsState":true,
+        "speed":23.83264,
+        "time":"2019-2-6 00:12:39"
+    },
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.4151,
+            "lng":-62.81102
+        },
+        "degrees":271.49,
+        "gpsState":true,
+        "speed":14.08554,
+        "time":"2019-2-6 00:12:57"
+    },
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.415,
+            "lng":-62.8124
+        },
+        "degrees":255.76,
+        "gpsState":true,
+        "speed":17.89462,
+        "time":"2019-2-6 00:13:15"
+    },
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.41481,
+            "lng":-62.81379
+        },
+        "degrees":276.9,
+        "gpsState":true,
+        "speed":24.44256,
+        "time":"2019-2-6 00:13:32"
+    },
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.41488,
+            "lng":-62.81597
+        },
+        "degrees":273.86,
+        "gpsState":true,
+        "speed":24.362,
+        "time":"2019-2-6 00:13:50"
+    },
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.41494,
+            "lng":-62.81802
+        },
+        "degrees":272.09,
+        "gpsState":true,
+        "speed":29.21829,
+        "time":"2019-2-6 00:14:08"
+    },
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.41477,
+            "lng":-62.82007
+        },
+        "degrees":258.93,
+        "gpsState":true,
+        "speed":26.82467,
+        "time":"2019-2-6 00:14:25"
+    },
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.41418,
+            "lng":-62.8219
+        },
+        "degrees":239.73,
+        "gpsState":true,
+        "speed":25.90405,
+        "time":"2019-2-6 00:14:42"
+    },
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.41343,
+            "lng":-62.82347
+        },
+        "degrees":236.33,
+        "gpsState":true,
+        "speed":26.46793,
+        "time":"2019-2-6 00:14:59"
+    },
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.41236,
+            "lng":-62.82498
+        },
+        "degrees":235.55,
+        "gpsState":true,
+        "speed":30.34605,
+        "time":"2019-2-6 00:15:16"
+    },
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.41138,
+            "lng":-62.82676
+        },
+        "degrees":244.94,
+        "gpsState":true,
+        "speed":27.82585,
+        "time":"2019-2-6 00:15:33"
+    },
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.41063,
+            "lng":-62.82841
+        },
+        "degrees":245.64,
+        "gpsState":true,
+        "speed":23.70606,
+        "time":"2019-2-6 00:15:50"
+    },
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.40969,
+            "lng":-62.83047
+        },
+        "degrees":244.16,
+        "gpsState":true,
+        "speed":38.86182,
+        "time":"2019-2-6 00:16:07"
+    },
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.40883,
+            "lng":-62.83233
+        },
+        "degrees":243.97,
+        "gpsState":true,
+        "speed":25.01794,
+        "time":"2019-2-6 00:16:24"
+    },
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.4081,
+            "lng":-62.8339
+        },
+        "degrees":243.41,
+        "gpsState":true,
+        "speed":22.96956,
+        "time":"2019-2-6 00:16:41"
+    },
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.40746,
+            "lng":-62.83505
+        },
+        "degrees":235.34,
+        "gpsState":true,
+        "speed":12.95778,
+        "time":"2019-2-6 00:16:58"
+    },
+    {  
+        "busName":"To Taba",
+        "coords":{  
+            "lat":17.40696,
+            "lng":-62.8359
+        },
+        "degrees":239.81,
+        "gpsState":true,
+        "speed":12.45143,
+        "time":"2019-2-6 00:17:15"
+    }
+]
